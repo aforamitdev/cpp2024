@@ -3,5 +3,9 @@
 
 int main()
 {
-    std::cout << "hello world!" << std::endl;
+
+    int x{5};
+    std::cout << "x is rquals to:" << x;
+
+    return 0;
 }
